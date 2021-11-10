@@ -13,6 +13,18 @@
         <title>JSP Page</title>
     </head>
     <body>
+    <center>
+        <table border="1">
+            <tr>
+                <th>
+                    SEGUNDO PARCIAL TEM-742<BR>
+                    NOMBRE :Rodrigo Machicado Rojas<br>
+                    CARNET :6951098
+                </th>
+            </tr>
+        </table>
+        </center>
+        
         <h1>Registro  de Seminarios</h1>
         <p><a href="MainController?op=nuevo">Nuevo</a></p>
         <table border="1">

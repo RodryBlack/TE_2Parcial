@@ -104,10 +104,6 @@ public class MainController extends HttpServlet {
         } catch (Exception ex) {
             System.out.println("ERROR AL CONECTAR"+ex.getMessage());
         }
-        
-        
-        
-        
     }
 
    
